@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm FiFolker</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
+<img src="https://i.gifer.com/origin/5e/5e6b6425c5ce19dd426fd669e4b3f3a5.gif" width="594" height="400" />
+
 - 🔭 I’m currently working on **nothing because i'm student**
 
 - 💬 Ask me about **Python or Java**
@@ -9,7 +11,10 @@
 
 - 🌱 I’m currently learning **Java and C#**
 
-- ⚡ Fun fact **I don't like web programming**
+- ⚡ Fun fact **I don't like web programming and I love the universe of Miyazaki**
+
+<img src="https://i.pinimg.com/originals/90/d3/1e/90d31ec7664fcd284af69cc847dfed26.gif" width="1280" height="867" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fifolker&show_icons=true&locale=en" alt="fifolker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fifolker&" alt="fifolker" /></p>
+
+
+<img src="http://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif" width="500" height="476" />
 
