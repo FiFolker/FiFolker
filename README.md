@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm FiFolker</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<img src="https://i.gifer.com/origin/5e/5e6b6425c5ce19dd426fd669e4b3f3a5.gif" width="594" height="400" />
+<p align="center">
+  <img src="https://i.gifer.com/origin/5e/5e6b6425c5ce19dd426fd669e4b3f3a5.gif" width="594" height="400" />
+</p>
 
 - 🔭 I’m currently working on **nothing because i'm student**
 
@@ -30,6 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fifolker&" alt="fifolker" /></p>
 
-
-<img src="http://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif" width="500" height="476" />
-
+<p align="center">
+  <img src="http://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif" width="500" height="476" />
+</p>
