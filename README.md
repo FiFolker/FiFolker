@@ -29,9 +29,12 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fifolker&show_icons=true&locale=en&layout=compact" alt="fifolker" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fifolker&show_icons=true&locale=en" alt="fifolker" /></p>
+<p align="left">
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fifolker&show_icons=true&locale=en" alt="fifolker" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fifolker&" alt="fifolker" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fifolker&" alt="fifolker" /></p>
+</p>
 
 <p align="center">
   <img src="http://24.media.tumblr.com/34890facd6def1b3e9f7a6771068020b/tumblr_mkkdo2Gw7d1rfjowdo1_500.gif" width="500" height="476" />
