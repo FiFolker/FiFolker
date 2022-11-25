@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm FiFolker</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fifolker&label=Profile%20views&color=0e75b6&style=flat" alt="fifolker" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fifolker" alt="fifolker" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fifolker" target="blank"><img src="https://img.shields.io/twitter/follow/fifolker?logo=twitter&style=for-the-badge" alt="fifolker" /></a> </p>
-
 - 🔭 I’m currently working on **nothing because i'm student**
 
 - 💬 Ask me about **Python or Java**
