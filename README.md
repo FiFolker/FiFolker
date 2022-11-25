@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I don't like web programming and I love the universe of Miyazaki**
 
-<img src="https://i.pinimg.com/originals/90/d3/1e/90d31ec7664fcd284af69cc847dfed26.gif" width="1280" height="867" />
+<img src="https://i.pinimg.com/originals/90/d3/1e/90d31ec7664fcd284af69cc847dfed26.gif" width="1012" height="599" />
 
 
 <h3 align="left">Connect with me:</h3>
