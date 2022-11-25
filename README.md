@@ -29,9 +29,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fifolker&show_icons=true&locale=en&layout=compact" alt="fifolker" /></p>
 
-<p align="left">
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fifolker&show_icons=true&locale=en" alt="fifolker" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fifolker&" alt="fifolker" />
+<p float="left">
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fifolker&show_icons=true&locale=en" alt="fifolker" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fifolker&" alt="fifolker" />
 </p>
 
 </p>
