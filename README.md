@@ -14,9 +14,9 @@
 - 🌱 I’m currently learning **Java and C#**
 
 - ⚡ Fun fact **I don't like web programming and I love the universe of Miyazaki**
-
-<img src="https://i.pinimg.com/originals/90/d3/1e/90d31ec7664fcd284af69cc847dfed26.gif" width="900" height="500" />
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/d3/1e/90d31ec7664fcd284af69cc847dfed26.gif" width="600" height="300" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
