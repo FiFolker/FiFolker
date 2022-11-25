@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FiFolker</h1>
-<h3 align="center">A passionate backend developer from France</h3>
+<h3 align="center">An apprentice backend developer from France</h3>
 
 <p align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="680" height="350" />
