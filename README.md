@@ -2,7 +2,7 @@
 <h3 align="center">An apprentice backend developer from France</h3>
 
 <p align="center">
-  <img src="https://66.media.tumblr.com/tumblr_ma9e64eCeq1rfjowdo1_500.gif" width="680" height="250" />
+  <img src="https://66.media.tumblr.com/tumblr_ma9e64eCeq1rfjowdo1_500.gif" width="540" height="350" />
 </p>
 <!-- https://i.gifer.com/origin/5e/5e6b6425c5ce19dd426fd669e4b3f3a5.gif -->
 
