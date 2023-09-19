@@ -1,4 +1,4 @@
-![image](https://github.com/FiFolker/FiFolker/assets/65813059/be71a25d-6947-4f1f-a6b3-aeef5758a98f)<h1 align="center">Hi 👋, I'm FiFolker</h1>
+<h1 align="center">Hi 👋, I'm FiFolker</h1>
 <h3 align="center">An apprentice backend developer from France</h3>
 
 <p align="center">
