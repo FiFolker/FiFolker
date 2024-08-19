@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm FiFolker</h1>
-<h3 align="center">An apprentice backend developer from France</h3>
+<h3 align="center">An apprentice developer from France</h3>
 
 <p align="center">
   <img src="https://66.media.tumblr.com/tumblr_ma9e64eCeq1rfjowdo1_500.gif" width="440" height="350" />
 </p>
 <!-- https://i.gifer.com/origin/5e/5e6b6425c5ce19dd426fd669e4b3f3a5.gif -->
-
-- 🔭 I’m currently working on **nothing because i'm a student (or little projects)**
-
-- 🤝 I’m looking for help with **learning to program**
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/d3/1e/90d31ec7664fcd284af69cc847dfed26.gif" width="680" height="461" />
